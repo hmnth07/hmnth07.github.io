@@ -347,6 +347,12 @@ header {
     margin: 0 auto;
 }
 
+.click-text {
+    font-weight: 600;
+    color: var(--clr-accent);
+    text-decoration: none;
+}
+
 .about-me__img {
     box-shadow: var(--bs);
 }
